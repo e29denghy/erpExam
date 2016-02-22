@@ -1,4 +1,4 @@
-TCExam - README
+Exam - README
 ===========================================================
 
 FOR ANY COMMERCIAL USAGE, INCLUDING WHEN A NON-PROFIT
@@ -6,40 +6,6 @@ ORGANIZATION IS ASKING ANY FEE TO ITS MEMBERS/USERS,
 YOU MUST CONTACT INFO@TECNICK.COM TO PURCHASE A LICENSE.
 
 ------------------------------------------------------------
-
-Name: TCExam
-
-Version: 12.1.024
-
-Release date: 2014-06-11
-Author:
-	Nicola Asuni
-
-Copyright (c) 2004-2014:
-	Nicola Asuni
-	Tecnick.com LTD
-	http://www.tecnick.com
-
-URLs:
-	http://www.tcexam.org
-	https://github.com/tecnickcom/tcexam
-
-Requirements and Install Documentation:
-	[ENG] install/index.htm
-	Check also the documentation on http://www.tcexam.org
-
-Source Documentation:
-	http://www.tcexam.org
-
-Support - Help:
-	Please use support Issues at https://github.com/tecnickcom/tcexam
-
-Software License
-	Copyright (C) 2004-2014 Nicola Asuni - Tecnick.com LTD
-	See LICENSE.TXT file for more information.
-
-Third-party Software
---------------------
 	
 	TCExam includes some third-party software components that are not striclty required but have been included as you convenience, and if used are subject to their respective licenses.
 
