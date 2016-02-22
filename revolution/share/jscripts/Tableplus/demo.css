@@ -1,0 +1,24 @@
+PRE {
+	FONT-FAMILY: "Courier New",Courier ,monospace
+}
+.content {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+.content H2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 15px; BACKGROUND: #f2f2f2; PADDING-BOTTOM: 5px; COLOR: #ff4314; PADDING-TOP: 5px
+}
+.content P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 10px; LINE-HEIGHT: 1.5; PADDING-TOP: 10px
+}
+.content OL {
+	PADDING-RIGHT: 40px; PADDING-LEFT: 40px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.content OL H3 {
+	FONT-SIZE: 12px
+}
+.runcode {
+	BORDER-RIGHT: #ddd 1px solid; PADDING-RIGHT: 8px; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 8px; FONT-SIZE: 12px; BACKGROUND: #f3f3f3; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #ddd 1px solid; CURSOR: pointer; PADDING-TOP: 2px; BORDER-BOTTOM: #ddd 1px solid; _padding: 0 5px
+}
+.lhgdg_inbox H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 90px; PADDING-TOP: 90px; TEXT-ALIGN: center
+}

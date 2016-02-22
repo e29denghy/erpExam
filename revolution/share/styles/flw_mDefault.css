@@ -1,0 +1,889 @@
+div.userbar {
+	background-color: white;
+	color: black;
+}
+div .header {
+	background: url(../images/img01.gif) repeat-x repeat-y;
+	width: 100%;
+}
+input select {
+	width:170px;	
+}
+div.header h3{
+	width: 660px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	float: right;
+	color:#848987;;
+}
+div#templateInfo {
+	width: 100%;
+	height: 41px;
+	background: url('../images/pattern-fixed.jpg');
+	background-repeat: repeat-x;
+	background-position: left center;
+	position: fixed;
+	z-index: 999;
+}
+div.scrollmenu {
+	float: left;
+	font-family: '微软雅黑';
+	height: 27px;
+	margin: 0px auto 0 auto;
+	width: 1349px;
+	font-size: 100%;
+	text-decoration: none;
+	border: 0;
+	min-width: 720px;
+	border-top: 1px solid #9a9a9a;
+	box-shadow: 1px 2px 2px 1px #ccc;
+	background: url('../images/bg-body.jpg');
+}
+/*----------------------------------------
+考生界面css
+----------------------------------------*/
+.testFace {
+	width: 100%;
+	margin-left:20px;
+	background: #fff;
+	-moz-box-shadow: 0 0 5px 3px #d3d3d3;
+	-webkit-box-shadow: 0 0 5px 3px#d3d3d3;
+	box-shadow: 0 0 5px 3px #d3d3d3;
+
+}
+.topQuesList {
+	margin-top: 0px;
+	width: 100%;
+	height: 80px;
+	background-color: #ccc;
+	position: fixed;
+	top: 60px;
+	z-index: 1;
+}
+.topQuesList .qList {
+	height: 20px;
+	width: 20px;
+	margin-left: 4px;
+	background-color: white;
+}
+.topOne {
+	width: 400px;
+	margin-top: 25px;
+	
+}
+.topOne .list {
+	width:300px;
+	float:left;
+	margin-bottom: 10px;
+}
+.list span{
+	width:20px;
+}
+.topOne .select {
+	
+}
+.se_label {
+	display: block;
+	width: 60px;
+	float: left;
+	font-weight: bold;
+}
+.flow_label {
+	display: block;
+	width: 60px;
+	float: left;
+	font-weight: bold;
+}
+
+.topOne span {
+	line-height: 30px;
+	display: inline-block;
+	color: #030202;
+}
+.list span{
+	width:30px;
+}
+#submit_test,#judge_pap,#judge_page,#next_page,#last_page{
+	font-family: "微软雅黑";
+	font-size: 16px;
+	height: 30px;
+	margin-right: 10px;
+	padding:0 7px;
+	float: right;
+	background-color: #9BD2E0;
+	border: 1px solid #4F8B9B;
+	cursor:pointer;
+	border-radius:4px;
+}
+.topOne .flow {
+	width: 100%;
+	height: auto;
+}
+#applyForm{
+}
+.lQuestArea {
+	width: 350px;
+}
+.exam_ques_operaPanl{
+	width: 180px;
+	margin-left: 222px;
+}
+}
+.lQuestArea input {
+	position: relative;
+	left: 10px;
+	margin-left:40px;
+	margin-bottom: 5px;
+}
+.rAnswArea {
+	width: 690px;
+	margin:0 auto;
+	margin-top:20px; 
+}
+.lQuestArea p:last-child{
+	text-indent: 20px;
+	font-size: 14px;
+}
+input#copy,input#up,input#add,input#update,input#clear,input#down,input#delete{
+	width:50px;
+	height:26px;
+	background-color:#9BD2E0;
+	border: 1px solid #4F8B9B;
+	cursor: pointer;
+	margin-top: 4px;
+}
+.AnswForm {
+  margin-top: 11px;
+  margin-left: 97px;
+  overflow: visible;
+  border: 0px;
+  background-color: #D0E8F9;
+  box-shadow: 0px 0px 1px 1px #4F8B9B;
+}
+#newBlance{
+  width: 120px;
+  border-radius: 6px;
+  background-color: #B3D0FD;
+  font-weight: bold;
+  margin-left: 33px;
+  border: 1px solid #2271EC;
+}
+.addtion_Bbox input{
+  background-color:rgb(245, 158, 158);
+  border:0px;
+  border-radius:4px;
+  display: none;
+}
+.table_box{
+	width:330px;
+	margin-top:37px;
+	margin-left:20px;
+}
+.uploadFlowAnsw {
+  width: 180px;
+  height: 30px;
+  margin: 13px 0px 11px 419px;
+}
+.uploadFlowAnsw input{
+	width:80px;
+	margin-left:29px;
+	height:30px;
+	background-color: #9BD2E0;
+	border: 1px solid #4F8B9B;
+}
+table + .addContent{
+	margin-left:40px;
+	width:100%;
+	background-color: #ccc;
+}
+.addBox{
+	width:100%;
+	 
+	overflow: auto;
+}
+.atta_addition .addContent{
+	 width:;
+}
+.atta_addition{
+	display: none;
+}
+.rightAnsw{
+	color:red;
+}
+.addContent h2{
+	font-size: 16px;
+	text-indent:20px;
+}
+.selectQueLeft{
+	float:left;
+	width:100px;
+	height:50px;
+	background-color: #D0E8F9;
+	text-align: center;
+	line-height: 50px; 
+  	margin-top: 8px;
+    margin-left: 11px;
+  	border: 1px solid #4F8B9B;
+}
+.selectQuest {
+  float: right;
+  padding: 10px;
+  margin: 8px 40px 8px 0px;
+  border: 1px solid #4F8B9B;
+  width: 500px;
+  overflow: hidden;
+  background-color: #D0E8F9;
+}
+.checkRight{
+	background:url("../images/reg_icons.png") no-repeat -74px 1px;
+	line-height: 17px;
+	width: 23px;
+	display: inline-block;
+}
+.checkError{
+	background:url("../images/reg_icons.png") no-repeat -74px -22px;
+	line-height: 17px;
+	width: 23px;
+	display: inline-block;
+}
+.selectQuest input {
+	margin: 0px 0 10px 40px;
+}
+.printPic {
+	margin-left: 120px;
+}
+.printPic form {
+	margin: 30px;
+}
+.clear {
+	clear: both;
+}
+.footer {
+	clear: both;
+	width: 100%;
+	height: auto;
+}
+/*----------------------------------------
+选择题考试界面css
+----------------------------------------*/
+.select_ques_face {
+}
+.top_ques_list{
+	width:100%;
+
+}
+.se_content{
+	clear:both;
+	width:568px;
+	margin:0 auto;
+}
+.se_option{
+	display:block;
+	width:400px;
+	margin-left:60px;
+}
+.next_last{
+	width:200px;
+	margin-right:0px;
+	float: right;
+}
+/*----------------------------------------
+添加流程题界面css
+----------------------------------------*/
+.test_manager {
+	margin-top: 20px;
+	width: 710px;
+	height: auto;
+	margin:0 auto;
+	overflow: hidden;
+	background: url();
+}
+.test_manager h1{
+	margin-top: 60px;
+	width: 100px;
+	height: auto;
+	margin:0 auto;
+}
+.flw_left {
+	width: 430px;
+	height: auto;
+	background-color: #ffffff;
+	margin:0 auto;
+}
+.flw_left h3{
+	width:200px;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #030202;;
+	width:200px;
+	
+}
+.flw_left .flw_addition {
+	width:460px;
+	height:386px;
+	background-color: white;
+	float: left;
+}
+.flw_addition .flw_add_left {
+	width:393px;
+	margin-left:101px; 
+	
+}
+.flw_addition .flw_opera {
+	width:550px;
+	margin: 30px 0px 30px 20px;
+}
+.flw_addition .flw_opera input {
+	line-height: 22px;
+	background: #D0E8F9;
+	border: 1px solid #6080D3;
+}
+.flw_addition .aList {
+	width: 30px;
+	height: 20px;
+	margin: 7px 0 0 7px;
+	background-color: #ccc;
+}
+.flw_left label, .flw_left textarea {
+	margin:3px 0px;
+}
+.flw_addition .flw_add_rbtnList {
+	width: 120px;
+	height:62px;
+	 
+}
+.flw_addition .btnList input {
+	margin-top: 5px;
+}
+/*----------------------------------------
+添加附加题界面css
+----------------------------------------*/
+ .add_attach {
+	width: 526px;
+	height:347px;
+	margin: 40px auto;
+}
+ .add_attach .att_opera {
+ 	margin-left: 164px;
+}
+ .add_attach .att_opera input {
+	padding: 2px 4px;
+	
+}
+.add_attach .att_opera #btn_add_answ {
+}
+/*----------------------------------------
+添加附加题答案界面css
+
+----------------------------------------*/
+
+.add_att_answ {
+	width:460px;
+	height:348px;
+	margin:0 auto;
+}
+.add_att_answ .att_answ_opera {
+	width: 400px;
+	margin-left: 164px;
+}
+.add_att_answ .att_answ_opera input {
+	margin: 0px;
+	padding: 2px 6px;
+}
+/*----------------------------------------
+添加流程题答案
+界面css
+----------------------------------------*/
+.flw_right {
+	width: 710px;
+	margin-left:0px;
+	 
+}
+.flw_answ_oper {
+  margin: 30px 121px;
+  padding-bottom: 10px;
+}
+.flw_answ_oper input {
+	line-height: 22px;
+	background: #D0E8F9;
+	border: 1px solid #6080D3;
+}
+label.current_answ{
+}
+/*--------------------------------------------
+
+选择题导入界面CSS
+---------------------------------------------*/
+.sel_selected_quest{
+	width:30%;
+	margin:90px auto;
+}
+/*--------------------------------------------
+
+判卷界面CSS
+---------------------------------------------*/
+
+.grading {
+	width: 594px;
+	padding: 30px 0 130px 0;
+	margin-left: 259px;
+
+}
+
+.grading h3{
+	padding: 0px;
+	margin:0px;
+}
+.grading_left {
+	width: 40%;
+	float: left;
+	margin: 20px 0 0 0px;
+}
+.grading_right {
+	width: 50px;
+	float: left;
+	
+	margin-top: 20px;
+}
+.grading_right input {
+	margin-top: 7px;
+}
+.grading_bottom {
+	margin-top: 20px;
+	
+	width: 100%;
+}
+.bottom_one {
+	float: left;
+	width: 20%;
+	margin-left: 40px;
+}
+.bottom_two {
+	float: left;
+	width: 30%;
+	margin-left: 0px;
+}
+.bottom_two .scroll_list {
+	overflow: scroll;
+	height: 160px;
+	width: 190px;
+}
+.bottom_two p {
+	margin-top: -40px;
+	margin-left: 20px;
+}
+.bottom_two ul li {
+	list-style: none;
+}
+.bottom_two .scroll_list label {
+	margin-left: 0px;
+}
+.bottom_three {
+	float: left;
+	margin-left: 20px;
+}
+.bottom_three p {
+	margin-top: -40px;
+}
+.grading_opera {
+	display: block;
+	margin-top: 20px;
+	margin-left:70px;
+}
+.grading_opera input {
+	
+}
+/*------------------------------------------
+异常处理界面css
+time:2015-3-25;
+author:lincong quan;
+--------------------------------------------*/
+.except_face {
+	width: 100%;
+	background-color: #fff;
+	margin: 25px auto;
+	min-height:400px;
+}
+.ept_table {
+	width: 100%;
+	margin-top: 20px;
+	border-collapse: collapse;
+}
+.ept_table tr {
+	margin-top: 30px;
+	padding-top: 10px;
+}
+.ept_table tr td {
+	font-size: 16px;
+	text-align: center;
+}
+.ept_table .over {
+	background-color: #ccc;
+	font-size: 16px;
+}
+/*---------------------------------------
+试判卷 CSS
+---------------------------------------*/
+.try_grading {
+	width: 400px;
+	margin: 0 auto;
+}
+.try_grading label {
+	margin-left: 80px;
+}
+.try_grading_opera {
+	display: block;
+	margin-left: 40px;
+}
+.try_grading_opera input {
+	margin-left: 20px;
+}
+/*---------------------------------------
+处理异常 CSS
+---------------------------------------*/
+.handle_except {
+	width: 53%;
+	margin: 0 auto;
+}
+.handle_except h1 {
+	margin-top: 30px;
+}
+.handle_except label {
+}
+.handle_except input {
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.comp_area {
+	width: 100%;
+}
+.comp_area p {
+	margin-top: 20px;
+	width: 20%;
+	float: left;
+}
+.comp_area textarea {
+	margin-left: 10px;
+	margin-top: 20px;
+	width: 60%;
+	float: left;
+}
+.grading_style label {
+	margin-left: 0px;
+}
+.excep_grading_left {
+	width: 40%;
+	float: left;
+	margin-left: 50px;
+}
+.except_grading_right {
+	float: left;
+	width: 50%;
+}
+.except_grading_right input {
+	margin-left: 20px;
+}
+.handle_excpt_opera {
+	margin-left: 140px;
+}
+.handle_excpt_opera input {
+	margin-left: 90px;
+}
+/*
+ * 试卷集查看情况
+ */
+.table-head{
+	width:700px;
+	margin-left: 150px;
+	margin-bottom:20px;
+}
+.table-head #test_number{
+	width:180px;
+}
+.editRow{
+	margin-left:150px;
+	background-color: #4490f7;
+}
+.saveRow{
+	background-color:rgb(189, 212, 243);
+}
+.cancelEdit{
+	background-color:rgb(189, 212, 243);
+}
+.deletePaper,.backup{
+	background-color: #4490f7;
+}
+.editRow,.saveRow,.cancelEdit,.deletePaper,.backup{
+	height: 29px;
+	border: 0px;
+	border-radius: 5px;
+	cursor: pointer;
+	color: white;
+	font-weight: bold;
+}
+.editRow,.saveRow,.cancelEdit{
+}
+/*-----------------------------------------------
+考生入口 界面css
+-------------------------------------------------*/
+.examinator_face {
+	 
+	width:1337px;
+	min-height: 360px;
+	background: url('../images/bottom_bg.png') no-repeat 880px bottom;
+}
+.examinator_face label{
+	line-height: 25px;
+	margin-left: 10px;
+}
+.examinator_face h1{
+	font-size: 34px;
+	text-indent: 317px;
+}
+.examintor_opera{
+	width: 70%;
+	margin: 13px 0 0 111px;
+}
+.examintor_opera input{
+	width: 170px;
+	height: 29px;
+	margin-left: 304px;
+	background-color: #3f89ec;
+	border: 0px;
+	border-radius: 5px;
+	cursor: pointer;
+	color: white;
+	font-weight: bold;
+}
+.examintor_opera input:hover{
+	background-color: #4490f7;
+}
+.exam_center{
+	width:100%;
+}
+.pass-item-error {
+display: none;
+float: left;
+position: relative;
+width: 250px;
+top: 12px;
+color: #fc4343;
+height: 16px;
+line-height: 14px;
+padding-left: 20px;
+background: url(/static/passpc-account/img/reg/err_small_a1085c53.png) 0 0 no-repeat;
+}
+.pass-item-succ {
+	display: none;
+	position: relative;
+	float: left;
+	top: 14px;
+	color: #fc4343;
+	height: 16px;
+	line-height: 12px;
+	padding-left: 20px;
+	background: url(/static/passpc-account/img/reg/reg_icons_4580a04f.png) -80px 0 no-repeat;
+}
+/*-----------------------------------------------
+正在进入考试 界面css
+-------------------------------------------------*/
+.entering_exam {
+	width: 50%;
+	margin: 30px auto;
+	height: 200px;
+	background-color: #ccc;
+}
+.entering_exam p {
+	font-size: 20px;
+	padding-left: 180px;
+	margin-top: 90px;
+}
+/*-----------------------------------------------
+试卷作答情况 界面css
+-------------------------------------------------*/
+.situation_exam {
+	width: 40%;
+	margin: 0 auto;
+}
+.situation_exam h1 {
+	margin-top: 40px;
+}
+.situation_exam .situation_table label {
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.situation_exam .situation_table textarea {
+	margin-top: 20px;
+	margin-left: 89px;
+}
+.situation_exam input {
+	margin-left: 0px;
+}
+.site_block {
+	margin-top: 10px;
+	width: 320px;
+	border: 1px #ccc solid;
+	border-collapse: collapse;
+}
+table.site_block tr td {
+	border: 1px #ccc solid;
+}
+#situa_back {
+	margin-left: 200px;
+}
+/*-----------------------------------------------
+查看试卷作答情况 界面css
+-------------------------------------------------*/
+.check_situa_exam {
+	width: 40%;
+	margin: 0 auto;
+}
+.check_situa_exam h1 {
+	margin-top: 40px;
+}
+.check_situa_exam p {
+	margin-top: 10px;
+}
+.situation_table input {
+	margin-left: 0px;
+}
+.check_sit_opera {
+	margin-left: 160px;
+	margin-top:20px;
+}
+
+/*-----------------------------------------------
+导入附加题 界面css
+-------------------------------------------------*/
+.import_attachment {
+	width: 40%;
+	margin: 0 auto;
+}
+.import_attachment label {
+	margin-left: 150px;
+}
+.import_atta_opera {
+	margin-left: 120px;
+	margin-top: 30px;
+}
+.import_atta_opera input {
+	margin-left: 50px;
+}
+/*-----------------------------------------------
+导入流程题 界面css
+-------------------------------------------------*/
+.import_flow {
+	width: 579px;
+	height: 280px;
+	margin:70px 0px 30px 250px;
+	padding-left:40px;
+}
+.import_flow h1 {
+	width: 130px;
+	 
+}
+/*-----------------------------------------------
+步骤设置界面css
+-------------------------------------------------*/
+.set_option {
+	width: 675px;
+	padding: 35px 0px 135px 50px;
+	margin-left:250px;
+}
+.set_option h1{
+	width:90px;
+}
+.set_option label {
+	margin-left: ;
+}
+.set_option .set_opt_opera {
+	margin-left: ;
+}
+.set_option form{
+	width: 439px;
+  	margin-left: 31px;
+}
+.set_opt_opera input {
+	margin-left: 50px;
+}
+/*-----------------------------------------------
+步骤设置界面css
+-------------------------------------------------*/
+.import_opt_file {
+	width: 578px;
+	height:300px;
+	margin-left: 250px;
+	padding:40px;
+}
+.import_opt_file h1{
+	 
+  	width: 180px;
+ 	margin-left: 0px;
+}
+
+/*-----------------------------------------------
+测验管理界面css
+-------------------------------------------------*/
+.test_manage {
+	width: 439px;
+  padding: 20px;
+  margin-left:250px;
+}
+.import_opt_file_opera {
+	margin-left: 135px;
+	margin-top: 30px;
+}
+/*-----------------------------------------------
+测验管理界面css
+-------------------------------------------------*/
+.set_answ_content {
+	width: 55%;
+	margin: 0 auto;
+}
+.set_answ_content h1 {
+	margin: 30px;
+}
+.set_answ_content table {
+	margin-top: 120px;
+]  width:100%;
+	margin: 0 auto;
+}
+/*-----------------------------------------------
+流程题目设置css
+-------------------------------------------------*/
+.set_answ_content {
+}
+.set_answ_con_opea {
+	margin: 30px 0 0 120px;
+}
+.set_answ_con_opea input {
+	margin-left: 130px;
+}
+/*-----------------------------------------------
+组卷界面css
+-------------------------------------------------*/
+.form_exam_paper {
+	width: 500px;
+	padding: 50px;
+	margin-left:200px;
+}
+.form_exam_paper table {
+	margin-top: 20px;
+}
+.form_exam_paper .form_exam_opera {
+	margin-left: 155px;
+	margin-top: 20px;
+}
+/*-----------------------------------------------
+考试管理界面css
+-------------------------------------------------*/
+.exam_management {
+	width: 692px;
+	margin-left: 250px;
+	padding:40px;
+
+}
+.exam_manage_opera {
+	margin-left: 216px;
+	margin-top: 34px;
+}

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/mysql
+END
+mysql_db_upgrade_7to8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/mysql/mysql_db_upgrade_7to8.sql
+END
+mysql_db_upgrade_8to9.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/mysql/mysql_db_upgrade_8to9.sql
+END
+mysql_db_upgrade_10to11.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/mysql/mysql_db_upgrade_10to11.sql
+END
+mysql_db_upgrade_11to12.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/mysql/mysql_db_upgrade_11to12.sql
+END
+mysql_db_upgrade_12to12_1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/mysql/mysql_db_upgrade_12to12_1.sql
+END
+mysql_db_upgrade_4to5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/mysql/mysql_db_upgrade_4to5.sql
+END
+mysql_db_upgrade_9to10.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/mysql/mysql_db_upgrade_9to10.sql
+END
+mysql_db_upgrade_5to6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/mysql/mysql_db_upgrade_5to6.sql
+END
+mysql_db_upgrade_6to7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/mysql/mysql_db_upgrade_6to7.sql
+END

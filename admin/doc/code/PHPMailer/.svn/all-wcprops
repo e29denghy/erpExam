@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Tcexam/!svn/ver/1/tcexam-master/admin/doc/code/PHPMailer
+END
+_shared---code---tce_class_mailer.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Tcexam/!svn/ver/1/tcexam-master/admin/doc/code/PHPMailer/_shared---code---tce_class_mailer.php.html
+END
+phpmailerException.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Tcexam/!svn/ver/1/tcexam-master/admin/doc/code/PHPMailer/phpmailerException.html
+END
+PHPMailer.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Tcexam/!svn/ver/1/tcexam-master/admin/doc/code/PHPMailer/PHPMailer.html
+END
+POP3.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Tcexam/!svn/ver/1/tcexam-master/admin/doc/code/PHPMailer/POP3.html
+END
+_shared---phpmailer---class.phpmailer.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Tcexam/!svn/ver/1/tcexam-master/admin/doc/code/PHPMailer/_shared---phpmailer---class.phpmailer.php.html
+END
+_shared---phpmailer---class.pop3.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Tcexam/!svn/ver/1/tcexam-master/admin/doc/code/PHPMailer/_shared---phpmailer---class.pop3.php.html
+END
+SMTP.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Tcexam/!svn/ver/1/tcexam-master/admin/doc/code/PHPMailer/SMTP.html
+END
+_shared---phpmailer---class.smtp.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Tcexam/!svn/ver/1/tcexam-master/admin/doc/code/PHPMailer/_shared---phpmailer---class.smtp.php.html
+END
+C_mailer.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Tcexam/!svn/ver/1/tcexam-master/admin/doc/code/PHPMailer/C_mailer.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxyChain
+END
+Trusted.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxyChain/Trusted.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxyChain/Interface.php
+END
+AllowedList.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxyChain/AllowedList.php
+END
+Any.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxyChain/Any.php
+END

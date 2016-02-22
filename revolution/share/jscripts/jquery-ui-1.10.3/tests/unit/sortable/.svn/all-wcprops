@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Tcexam/!svn/ver/5/tcexam-master/revolution/share/jscripts/jquery-ui-1.10.3/tests/unit/sortable
+END
+sortable_options.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Tcexam/!svn/ver/5/tcexam-master/revolution/share/jscripts/jquery-ui-1.10.3/tests/unit/sortable/sortable_options.js
+END
+sortable_test_helpers.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Tcexam/!svn/ver/5/tcexam-master/revolution/share/jscripts/jquery-ui-1.10.3/tests/unit/sortable/sortable_test_helpers.js
+END
+sortable_methods.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Tcexam/!svn/ver/5/tcexam-master/revolution/share/jscripts/jquery-ui-1.10.3/tests/unit/sortable/sortable_methods.js
+END
+sortable_events.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Tcexam/!svn/ver/5/tcexam-master/revolution/share/jscripts/jquery-ui-1.10.3/tests/unit/sortable/sortable_events.js
+END
+all.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Tcexam/!svn/ver/5/tcexam-master/revolution/share/jscripts/jquery-ui-1.10.3/tests/unit/sortable/all.html
+END
+sortable.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Tcexam/!svn/ver/5/tcexam-master/revolution/share/jscripts/jquery-ui-1.10.3/tests/unit/sortable/sortable.html
+END
+sortable_common.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Tcexam/!svn/ver/5/tcexam-master/revolution/share/jscripts/jquery-ui-1.10.3/tests/unit/sortable/sortable_common.js
+END
+sortable_core.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Tcexam/!svn/ver/5/tcexam-master/revolution/share/jscripts/jquery-ui-1.10.3/tests/unit/sortable/sortable_core.js
+END

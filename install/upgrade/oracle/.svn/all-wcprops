@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/oracle
+END
+oracle_db_upgrade_10to11.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/oracle/oracle_db_upgrade_10to11.sql
+END
+oracle_db_upgrade_11to12.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/oracle/oracle_db_upgrade_11to12.sql
+END
+oracle_db_upgrade_12to12_1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/oracle/oracle_db_upgrade_12to12_1.sql
+END
+oracle_db_upgrade_9to10.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/oracle/oracle_db_upgrade_9to10.sql
+END

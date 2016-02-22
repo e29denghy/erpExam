@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxiedService
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxiedService/Exception.php
+END
+Http.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxiedService/Http.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxiedService/Abstract.php
+END
+Testable.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxiedService/Testable.php
+END
+Imap.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxiedService/Imap.php
+END

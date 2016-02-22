@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS
+END
+OutOfSequenceBeforeProxyException.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/OutOfSequenceBeforeProxyException.php
+END
+ProxiedService.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxiedService.php
+END
+GracefullTerminationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/GracefullTerminationException.php
+END
+AuthenticationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/AuthenticationException.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/Exception.php
+END
+ProxyTicketException.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxyTicketException.php
+END
+OutOfSequenceException.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/OutOfSequenceException.php
+END
+CookieJar.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/CookieJar.php
+END
+Autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/Autoload.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/InvalidArgumentException.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/Client.php
+END
+OutOfSequenceBeforeAuthenticationCallException.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/OutOfSequenceBeforeAuthenticationCallException.php
+END
+ProxyChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/ProxyChain.php
+END
+TypeMismatchException.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/TypeMismatchException.php
+END
+OutOfSequenceBeforeClientException.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Tcexam/!svn/ver/1/tcexam-master/shared/cas/source/CAS/OutOfSequenceBeforeClientException.php
+END

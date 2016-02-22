@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/postgresql
+END
+postgresql_db_upgrade_8to9.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/postgresql/postgresql_db_upgrade_8to9.sql
+END
+postgresql_db_upgrade_10to11.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/postgresql/postgresql_db_upgrade_10to11.sql
+END
+postgresql_db_upgrade_11to12.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/postgresql/postgresql_db_upgrade_11to12.sql
+END
+postgresql_db_upgrade_12to12_1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/postgresql/postgresql_db_upgrade_12to12_1.sql
+END
+postgresql_db_upgrade_4to5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/postgresql/postgresql_db_upgrade_4to5.sql
+END
+postgresql_db_upgrade_9to10.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/postgresql/postgresql_db_upgrade_9to10.sql
+END
+postgresql_db_upgrade_5to6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/postgresql/postgresql_db_upgrade_5to6.sql
+END
+postgresql_db_upgrade_6to7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/postgresql/postgresql_db_upgrade_6to7.sql
+END
+postgresql_db_upgrade_7to8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Tcexam/!svn/ver/1/tcexam-master/install/upgrade/postgresql/postgresql_db_upgrade_7to8.sql
+END

@@ -1,0 +1,112 @@
+
+    <script src="../../shared/jscripts/jquery-1.7.2.min.js"></script> 
+    <script src="../../shared/jscripts/exam_event.js"></script>
+<div class="testFace">
+  <div class="topQuesList">
+    <div class="topOne">
+      <span class="qList"><a href="#">01</a></span> <span class="qList"><a href="#">02</a></span> <span class="qList"><a href="#">03</a></span> <span class="qList"><a href="#">04</a></span> <span class="qList"><a href="#">05</a></span> <span class="qList"><a href="#">06</a></span> <span class="qList"><a href="#">07</a></span> <span class="qList"><a href="#">08</a></span> <span class="qList"><a href="#">09</a></span> <span class="qList"><a href="#">10</a></span> <span class="qList"><a href="#">11</a></span> <span class="qList"><a href="#">12</a></span> <span class="qList"><a href="#">01</a></span> <span class="qList"><a href="#">02</a></span> <span class="qList"><a href="#">03</a></span> <span class="qList"><a href="#">04</a></span> <span class="qList"><a href="#">05</a></span> <span class="qList"><a href="#">06</a></span> <span class="qList"><a href="#">07</a></span> <span class="qList"><a href="#">08</a></span> <span class="qList"><a href="#">09</a></span> <span class="qList"><a href="#">10</a></span> <span class="qList"><a href="#">11</a></span> <span class="qList"><a href="#">12</a></span> 
+    </div>
+    <div class="topTwo"> <span class="applyTest" style="font-size:16px;">
+      <form action="$_SERVET["SCRIPT_NAME"]" method="post" id="applyForm">
+        <input type='submit' name="交卷" >
+      </form>
+      </span> 
+    </div>
+  </div>
+  <div class="lQuestArea">
+    <h4> 题目要求(这里整体可讨论是用层还是左侧弹窗来做，目的悬浮使得总在屏幕上)</h4>
+    <p> 1、（试题题干描述：）XX年xx月xx日，向xx公司提出采购意向，采购xx原料xx数量，我司报价xx元/件；xx月xx日，xx公司同意我司采购请求，但单价调整为xx元。双方于xx月xx日签订采购订单……</p>
+    <p>答题要求：请将上述业务流程在ERP系统中的操作步骤按顺序描述出来，请在右侧答题区域答题。</p>
+    <lable>附加小题：</lable>
+    <ul>
+      <li><a href="#">题1.1</a></li>
+      <li><a href="#">题1.2</a></li>
+      <li><a href="#">题1.3</a></li>
+    </ul>
+    <input type="button" value ="上一题" name="lastQues"/>
+     <input type="button" value ="下一题" name="nextQues"/>
+  </div>
+  <div class="rAnswArea">
+    <h2>流程题答题区域</h2>
+    <hr/>
+    <table class="AnswForm" id="1" width="411" border="0" bgcolor="#CCCCCC">
+      <tr>
+        <td width="41" rowspan="3">步骤</td>
+        <td class="step" rowspan="3">1</td>
+        <td width="216"><label>单据</label>
+          <select name="select1">
+            <option selected="selected" name="请选择">请选择</option>
+            <option name="编码方案">编码方案</option>
+            <option name="人员列表">人员列表</option>
+            <option name="采购请购单">采购请购单</option>
+            <option name="采购订单">采购订单</option>
+            <option name="采购到货单">采购到货单</option>
+            <option name="采购入库单">采购入库单</option>
+          </select></td>
+        <td width="128" rowspan="3"><label>
+            <input type="button" name="Submit" id="copy" value="复制" />
+            <input type="button" name="Submit" id="delete" value="删除" />
+            <input type="button" name="Submit" id="up" value="上移↑"  />
+            <input type="button" name="Submit" id="down" value="下移↓" />
+          </label></td>
+      </tr>
+      <tr>
+        <td><label>操作
+            <select name="select2">
+              <option selected="selected">请选择</option>
+              <option name="设置基础数据">设置基础数据</option>
+              <option name="期初数据配置">期初数据配置</option>
+              <option name="生成单据">生成单据</option>
+              <option name="审核单据">审核单据</option>
+              <option name="单据结算">单据结算</option>
+              <option name="核算">核算</option>
+              <option name="生成凭证">生成凭证</option>
+              <option name="现结">现结</option>
+            </select>
+          </label></td>
+      </tr>
+      <tr>
+        <td><label></label>
+          角色
+          <select name="select3">
+            <option selected="selected">请选择</option>
+            <option name="生产部门-操作员">生产部门-操作员</option>
+            <option name="生产部门-二级主管">生产部门-二级主管</option>
+            <option name="生产部门-一级主管">生产部门-一级主管</option>
+            <option name="采购部门-采购业务员">采购部门-采购业务员</option>
+            <option name="采购部门-采购主管">采购部门-采购主管</option>
+            <option name="仓储部门-仓管员">仓储部门-仓管员</option>
+            <option name="仓储部门-仓库主管">仓储部门-仓库主管</option>
+            <option name="仓储部门-存货核算">仓储部门-存货核算</option>
+            <option name="财务部门-会计">财务部门-会计</option>
+            <option name="财务部门-出纳">财务部门-出纳</option>
+            <option name="财务部门-财务主管">财务部门-财务主管</option>
+          </select></td>
+      </tr>
+    </table>
+    <div class="uploadFlowAnsw">
+      <input type="button" value="修改流程" id="changeAnsw"/>
+      <input type="button" value="提交流程" id="upFlowAnsw"/>
+    </div>
+    <hr/>
+
+    <div class="selectQuest">
+        <span class="orderNum">1.1</span>&nbsp.<span class="quesContent">在上述步骤中，需要采购主管审核的步骤包括有_____（多选）</span><p/>
+        <input type="checkbox" name="A" value="采购订单"><lable>A.采购订单</lable>
+        <input type="checkbox" name="B" value="采购发票"><lable>B.采购发票</lable>
+        <input type="checkbox" name="C" value="采购请购单"><lable>C.采购请购单</lable>
+        <input type="checkbox" name="D" value="入库单"><lable>D.入库单</lable>
+    </div>
+    <p/>
+    <div class="printPic">
+        <span class="orderNum">1.2</span>&nbsp.<span class="quesContent">在上述步骤中，需要采购主管审核的步骤包括有_____（多选）</span><p/>
+        <form action="upload_file.php" method="post"
+        enctype="multipart/form-data">
+          <label for="file">文件名称:</label>
+          <input type="file" name="file" id="file" /> 
+          <input type="submit" name="submit" value="上传" />
+        </form>
+    </div>
+        <hr/>
+  </div>
+</div>
